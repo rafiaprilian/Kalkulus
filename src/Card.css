@@ -1,0 +1,34 @@
+.explore {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    background-color: #eaf8f4;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h3 {
+    margin-bottom: 20px;
+  }
+  
+  .view-more {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
